@@ -1,5 +1,5 @@
 # Face_Recognition
-identify the person face project using ML
+Identify The Person Face Project Using ML
 
 LIBRARY UES:
 1) dlib
